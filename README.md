@@ -1,2 +1,2 @@
 # war
-war delivery
+Used to store target WARs between environments.
